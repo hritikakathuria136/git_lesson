@@ -37,7 +37,7 @@ Of course each command could be reversed, but some of them are harder to reverse
 
 
 ```bash
-# Your answer
+ls
 
 ```
 
